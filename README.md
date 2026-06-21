@@ -39,12 +39,13 @@
 **Resumo:** aqui documentei as perguntas estratégicas, variações testadas, respostas obtidas e problemas encontrados.
 
 **Exemplo de registro resumido**
-- **Prompt inicial:** Resuma os 5 pontos principais deste conteúdo.  
-- **Problema:** respostas genéricas sem referência de página.  
-- **Ajuste:** “Resuma os 5 pontos principais e cite a fonte e a página para cada bullet.”  
-- **Resultado:** bullets com referências; precisei refinar para obter exemplos práticos.
+- **Prompt inicial:** “Como lidar com a vergonha de aparecer no YouTube?”  
+- **Resposta:** IA trouxe 5 passos (aceitar ser iniciante, repetição, enfrentar o medo, usar motivação, evitar perfeccionismo).
+- **Fonte:** Insights de especialistas como Alex Vargas e Tiago Tessmann.
+- **Ajuste:** Pedi alternativas “sem aparecer”.  
+- **Resultado:** Recebi explicação sobre canais faceless (uso de bancos de imagens, narração, unboxing).
 
-**Arquivo de registro completo:** ________ (veja no repositório).
+**Arquivo de registro em PDF:** (https://github.com/sabrinakta/estudos-de-estrategias-de-marketing-digital-para-afiliados-notebooklm/blob/main/Engenharia%20de%20Prompts%20e%20Cicatrizes.pdf) (veja anexo).
 
 ---
 
