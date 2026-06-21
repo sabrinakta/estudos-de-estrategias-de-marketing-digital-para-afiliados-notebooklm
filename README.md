@@ -29,9 +29,9 @@
 2. Fiz upload dos links na seção de fontes.  
 3. Esperei indexação e verifiquei referências.  
 4. Executei prompts de exploração, detalhamento e revisão.  
-5. Registrei cada tentativa em _____.
+5. Registrei cada tentativa no PDF anexo: (https://github.com/sabrinakta/estudos-de-estrategias-de-marketing-digital-para-afiliados-notebooklm/commit/9251c0ef8a14aab97f3f97d4fa00e52f3c9bb53f).
 
-**Boas práticas:** peça sempre que o NotebookLM **cite a fonte e a página** para cada afirmação; valide afirmações importantes contra a fomte original.
+**Boas práticas:** peça sempre que o NotebookLM **cite a fonte e a página** para cada afirmação; valide afirmações importantes contra a fonte original.
 
 ---
 
